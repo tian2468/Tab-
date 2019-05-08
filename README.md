@@ -1,5 +1,5 @@
 # tab
-
+基于vue、swiper,滑动切换选项卡
 ## Project setup
 ```
 npm install
